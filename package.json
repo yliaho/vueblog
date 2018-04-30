@@ -1,0 +1,16 @@
+{
+  "name": "vueblog-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "blog:dev": "vuepress dev blog",
+    "blog:build": "vuepress build blog"
+  },
+  "dependencies": {
+    "vuepress-theme-valle": "^0.1.0"
+  },
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
